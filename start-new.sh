@@ -15,4 +15,8 @@ email:
   unmasked:
   used:
 password:
+
+specimens:
+- filename:
+  description:
 EOF
