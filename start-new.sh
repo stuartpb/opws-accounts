@@ -8,15 +8,18 @@ fi
 
 dummyroot="by-domain/$1/$(date -I)"
 mkdir -p "$dummyroot/specimens"
-touch "$dummyroot/notes.md"
 
-cat << 'EOF' > "$dummyroot/credentials.yaml"
+cat << 'EOF' > "$dummyroot/report.yaml"
 email:
   unmasked:
   used:
-password:
+# insert username etc. here
+passwords: # in order of use
+- a
 
 specimens:
-- filename:
-  description:
+- filename: password-reset.eml
+  description: Password reset response
+
+notes: >
 EOF
