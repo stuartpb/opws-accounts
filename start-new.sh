@@ -9,7 +9,14 @@ fi
 accountroot="accounts/$1"
 mkdir -p "$accountroot"
 
-cat << 'EOF' > "$accountroot/$(date -I).md"
+fileprefix="$accountroot/$(date -I)"
+extension=".md"
+try=1
+while [[ -f "$fileprefix$extension" ]]; do
+  extension="_$((++try)).md"
+done
+
+cat << 'EOF' > "$fileprefix$extension"
 ---
 email:
   unmasked:
