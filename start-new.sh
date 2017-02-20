@@ -6,7 +6,7 @@ if [[ -z "$1" ]]; then
   exit 1
 fi
 
-dummyroot="by-domain/$1"
+dummyroot="accounts/$1"
 mkdir -p "$dummyroot"
 
 cat << 'EOF' > "$dummyroot/$(date -I).md"

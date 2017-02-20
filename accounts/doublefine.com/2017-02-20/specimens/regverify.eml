@@ -1,0 +1,249 @@
+Delivered-To: 6lirz1+d5isvx5qtzx04@sharklasers.com
+Received: from cic04.aws.ipslink.com (cic04.aws.ipslink.com  [52.21.149.45])
+	by sharklasers.com with SMTP id 28e1bc3a5ecad08b4205a273af5b720c@sharklasers.com;
+	Mon, 20 Feb 2017 02:58:54 +0000
+Received: from doublefi by cic04.aws.ipslink.com with local (Exim 4.88)
+	(envelope-from <doublefi@cic04.aws.ipslink.com>)
+	id 1cfeBh-000IvE-U0
+	for 6lirz1+d5isvx5qtzx04@sharklasers.com; Sun, 19 Feb 2017 21:58:53 -0500
+To: 6lirz1+d5isvx5qtzx04@sharklasers.com
+Subject: =?UTF-8?B?WW91IG11c3QgdmFsaWRhdGUgeW91ciBhY2NvdW50IHRvIGNvbnRpbnVl?=
+X-PHP-Script: forums.doublefine.com/index.php for 174.127.175.206
+MIME-Version: 1.0
+Auto-Submitted: auto-generated
+From: =?UTF-8?B?RG91YmxlIEZpbmUgQWN0aW9uIEZvcnVtcw==?= <info@doublefine.com>
+Date: Mon, 20 Feb 2017 02:58:53 +0000
+Content-Type: multipart/alternative; boundary="--==_mimepart_ac43a4fc85ad0640eb066f755fc2d835"; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1cfeBh-000IvE-U0@cic04.aws.ipslink.com>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cic04.aws.ipslink.com
+X-AntiAbuse: Original Domain - sharklasers.com
+X-AntiAbuse: Originator/Caller UID/GID - [1169 992] / [47 12]
+X-AntiAbuse: Sender Address Domain - cic04.aws.ipslink.com
+X-Get-Message-Sender-Via: cic04.aws.ipslink.com: authenticated_id: doublefi/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: cic04.aws.ipslink.com: doublefi
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/doublefi/public_html/index.php
+X-Source-Dir: doublefine.invisionzone.com:/public_html
+
+----==_mimepart_ac43a4fc85ad0640eb066f755fc2d835
+Content-Type: text/plain; charset=UTF-8
+
+
+
+Hi &lt;script&gt;alert(1)&lt;/script&gt;,
+
+Thanks for registering. Click the button below to validate your account and get started.
+
+=====
+Validate my Email address: https://forums.doublefine.com/index.php?app=core&module=system&controller=register&do=validate&vid=eeb153d83735bb4e80f59937ee0665b7&mid=169333
+=====
+
+-- Double Fine Action Forums
+
+-----
+
+
+
+
+Double Fine Action Forums
+----==_mimepart_ac43a4fc85ad0640eb066f755fc2d835
+Content-Type: text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title></title>
+		<style type="text/css">
+
+			#outlook a {padding:0;}
+			body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
+			.ExternalClass {width:100%;}
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+			#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+
+			img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
+			a img {border:none;}
+			.image_fix {display:block;}
+
+			p {margin: 1em 0;}
+
+			h1 { color: white !important; }
+			h2, h3, h4, h5, h6 {color: #333333 !important;}
+
+			h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {
+				color: red !important;
+			}
+
+			h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
+				color: purple !important;
+			}
+
+			table td {border-collapse: collapse;}
+
+			table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+
+			a {color: #4a8aca;}
+
+			/* Unhides cells that we set to hide in the HTML in case the client doesn't support style properly */
+			*[class~=hidePhone] {
+			    display : block !important;
+			    width : auto !important;
+			    max-height: inherit !important;
+			    overflow : visible !important;
+			    float : none !important;
+			}
+
+			*[class~=hidePhone][width="30"] {
+				width: 30px !important;
+			}
+
+			*[class~=hidePhone][width="40"] {
+				width: 40px !important;
+			}
+
+			td[class~=hidePhone] {
+				display: table-cell !important;
+			}
+
+			@media only screen and (max-device-width: 480px) {
+				a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color: blue;
+					pointer-events: none;
+					cursor: default;
+				}
+
+				.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: orange !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+
+				#userPhoto, .hidePhone, *[class~=hidePhone], td[class~=hidePhone] {
+					display: none !important;
+				}
+
+				.responsive_table > tr > td, .responsive_table > tbody > tr > td,
+				.responsive_table > tr, .responsive_table > tbody > tr {
+					display: block;
+					text-align: left;
+				}
+
+				html[dir="rtl"] .responsive_table > tr > td, html[dir="rtl"] .responsive_table > tbody > tr > td,
+				html[dir="rtl"] .responsive_table > tr, html[dir="rtl"] .responsive_table > tbody > tr {
+					text-align: right;
+				}
+
+				.responsive_row {
+					margin-bottom: 10px;
+				}
+
+				.responsive_fullwidth {
+					width: 100% !important;
+				}
+			}
+
+			@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+				a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color: blue;
+					pointer-events: none;
+					cursor: default;
+				}
+
+				.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: orange !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+			}
+		</style>
+	</head>
+	<body bgcolor="#f1f1f1" style='direction: ltr'>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#f1f1f1">
+			<tr height='25'>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+			</tr>
+			<tr>
+				<td dir='ltr' valign="top"><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr' valign='middle' style="font-family: 'Helvetica Neue', helvetica, sans-serif; font-size: 30px; font-weight: 300; color: #262e33; line-height: 48px; padding-left: 10px;">
+					<a href='https://forums.doublefine.com/' style='text-decoration: none; color: #262e33; border: 0;'>
+
+
+
+
+
+							<img src='https://forums.doublefine.com/uploads/monthly_2016_07/dflogo_color_PSD-supersmall.png.eeaa0a7f83d89f723d69bbb1a1997e8c.png' alt="Double Fine Action Forums" width='200' height='200' />
+
+					</a>
+				</td>
+				<td dir='ltr' valign="top"><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+			</tr>
+			<tr height='25'>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+			</tr>
+			<tr>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr' width='800' id='main' bgcolor='#ffffff' style='border-top: 10px solid #fc6914; line-height: 1.5;'>
+					<table width='100%' cellpadding='20'>
+						<tr>
+							<td dir='ltr' style="font-family: 'Helvetica Neue', helvetica, sans-serif; font-size: 15px; color: #333333; line-height: 21px">
+
+
+									<strong style='font-size: 17px'>Hi &lt;script&gt;alert(1)&lt;/script&gt;,</strong>
+									<br />
+
+
+
+
+Thanks for registering. Click the button below to validate your account and get started.
+<br /><br />
+
+<table width='100%' cellpadding='15' cellspacing='0' border='0' style='background: #f9f9f9;'>
+	<tr>
+		<td dir='ltr' align='center'>
+			<a href='https://forums.doublefine.com/index.php?app=core&amp;module=system&amp;controller=register&amp;do=validate&amp;vid=eeb153d83735bb4e80f59937ee0665b7&amp;mid=169333' style="color: #ffffff; font-family: 'Helvetica Neue', helvetica, sans-serif; text-decoration: none; font-size: 14px; background: #fc6914; line-height: 32px; padding: 0 10px; display: inline-block; border-radius: 3px;">Validate my Email address</a>
+		</td>
+	</tr>
+</table>
+
+<br /><br />
+<em style='color: #8c8c8c'>&mdash; Double Fine Action Forums</em>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+			</tr>
+			<tr height='25'>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				<td dir='ltr'><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+			</tr>
+
+
+
+				<tr>
+					<td dir='ltr' valign="top"><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+					<td dir='ltr' valign='top' width='800' align='center' style="font-family: 'Helvetica Neue', helvetica, sans-serif; font-size: 12px; color: #bdbdbd; line-height: 18px; padding-left: 10px;">
+						Double Fine Action Forums
+					</td>
+					<td dir='ltr' valign="top"><img src='https://forums.doublefine.com/applications/core/interface/email/spacer.png' width='1' height='1' alt=''></td>
+				</tr>
+
+		</table>
+	</body>
+</html>
+
+----==_mimepart_ac43a4fc85ad0640eb066f755fc2d835--

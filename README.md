@@ -1,25 +1,17 @@
-# opws-testdummies
+# opws-accounts
 
-Scratch account credentials for reviewing OPWS profiles
+Loosely-structured records of how OPWS profiles got written.
 
 see https://github.com/opws/domainprofiles/issues/148
 
-## how to make a sandbox in two seconds
+## Starting a new profile / review
 
-open a "Guest" browser window and open:
+Open a guest / incognito / private browser window and open:
 
 - https://sharklasers.com/ (for email)
 - https://gist.github.com/ (for saving specimens)
 - the website's registration form and everything else getting tested
 
-## throwing up in one shot
+## This is not BugMeNot
 
-```sh
-git config alias.hurl='!git add by-domain && git commit --allow-empty-message -m "" && git push'
-```
-
-then you can `git hurl` constantly like this is dropbox or something
-
-## don't be a dick
-
-these are for testing site mechanisms, don't use them for content or interaction. that'd be a real Dick Move&trade;.
+Most of the test accounts created for review here are kept around after the review is done (ie. I don't delete them), in case they'll be useful for just revisiting an aspect of the site at a later point, or legacy account handling (like finding out if inactive and/or pre-migration accounts have been evicted). Please don't use them for your own purposes. If you need a throwaway account, you can make a new one using GuerillaMail yourself, or pull one from http://bugmenot.com/ and use that.
