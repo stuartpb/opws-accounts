@@ -6,21 +6,23 @@ if [[ -z "$1" ]]; then
   exit 1
 fi
 
-accountroot="accounts/$1"
+domain="$1"
+accountroot="accounts/$domain"
 mkdir -p "$accountroot"
 
-fileprefix="$accountroot/$(date -I)"
+today="$(date -I)"
+fileprefix="$accountroot/$today"
 extension=".md"
 try=1
+trext=""
 while [[ -f "$fileprefix$extension" ]]; do
-  extension="_$((++try)).md"
+  trext="_$((++try))"
+  extension="$trext.md"
 done
 
-cat << 'EOF' > "$fileprefix$extension"
+cat << EOF > "$fileprefix$extension"
 ---
-email:
-  unmasked:
-  used:
+email: https://mailsac.com/inbox/${domain}_$today$trext@tmail.opws.org
 # insert username etc. here
 passwords: # in order of use
 - a
@@ -37,6 +39,7 @@ specimens: # https://gist.github.com/
     password settings change:
   errors:
     nonexistent account reset request stub:
+    expired password reset link:
 ---
 
 EOF
