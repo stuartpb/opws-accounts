@@ -9,7 +9,7 @@ fi
 dummyroot="by-domain/$1/$(date -I)"
 mkdir -p "$dummyroot/specimens"
 
-cat << 'EOF' > "$dummyroot/report.yaml"
+cat << 'EOF' > "$dummyroot/report.md"
 email:
   unmasked:
   used:
@@ -21,5 +21,6 @@ specimens:
 - filename: password-reset.eml
   description: Password reset response
 
-notes: >
+---
+
 EOF
