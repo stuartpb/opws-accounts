@@ -6,10 +6,10 @@ if [[ -z "$1" ]]; then
   exit 1
 fi
 
-dummyroot="by-domain/$1/$(date -I)"
-mkdir -p "$dummyroot/specimens"
+dummyroot="by-domain/$1"
+mkdir -p "$dummyroot"
 
-cat << 'EOF' > "$dummyroot/report.md"
+cat << 'EOF' > "$dummyroot/$(date -I).md"
 ---
 email:
   unmasked:
@@ -19,8 +19,7 @@ passwords: # in order of use
 - a
 
 specimens:
-- filename: password-reset.eml
-  description: Password reset response
+- https://gist.github.com/
 
 ---
 

@@ -6,9 +6,11 @@ see https://github.com/opws/domainprofiles/issues/148
 
 ## how to make a sandbox in two seconds
 
-1. right click the sharklasers link, open in incognito
-2. new tab in that incognito window, go to the site
-3. do whatever
+open a "Guest" browser window and open:
+
+- https://sharklasers.com/ (for email)
+- https://gist.github.com/ (for saving specimens)
+- the website's registration form and everything else getting tested
 
 ## throwing up in one shot
 
