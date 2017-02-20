@@ -10,6 +10,7 @@ dummyroot="by-domain/$1/$(date -I)"
 mkdir -p "$dummyroot/specimens"
 
 cat << 'EOF' > "$dummyroot/report.md"
+---
 email:
   unmasked:
   used:

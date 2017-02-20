@@ -1,0 +1,102 @@
+Delivered-To: 6li2ig+15qlzgj8vdw5s@sharklasers.com
+Received: from mail-wr0-f201.google.com (mail-wr0-f201.google.com  [209.85.128.201])
+	by sharklasers.com with SMTP id 6e33e5427d9e636dec7d2f0f1d6ce2aa@sharklasers.com;
+	Mon, 20 Feb 2017 02:07:36 +0000
+Received: by mail-wr0-f201.google.com with SMTP id 89so237929wrr.3
+        for <6li2ig+15qlzgj8vdw5s@sharklasers.com>; Sun, 19 Feb 2017 18:07:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=date:from:to:message-id:subject:mime-version;
+        bh=hE2N55Xv0JzIyXTdZGKanf6FYtB9Xb43DZnY05PgKi4=;
+        b=vz66nbtuem6fYSsis4JGhNxya0oFxK0ThEvN9T/pJFmFDyhAPJzsyYHpJ1qxbWbY0J
+         5+zsgGAlvkxz70/xNuRgM/Q/3XYMcZh2iEM6+JCyRqdBv+4AZObfpZ77LPJ8fxCPTAko
+         5nYFa58DJs2xUt3PWJ3v/0JigQMGSk0UZhqxL+Moz1YawnUYOWP2ELzjrdgCygKrqrk8
+         Q+mXGDn69G74DTUuMNQ+ADhNl7lX7WZzsa70Q/XcLgXeGMmiKli8MxZYt+KBCQWlwFca
+         0wWvXjrP5hHGTLvpOjdu6IS++n7Pcjr6zGWNXUciX5v+DA2m5t3SJdfhrJWagUwR+5QY
+         n3cg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:from:to:message-id:subject:mime-version;
+        bh=hE2N55Xv0JzIyXTdZGKanf6FYtB9Xb43DZnY05PgKi4=;
+        b=QILdfFY/LQbHJ6+besGax7C1qmQ3tI2GDVnTY8C/Y+AIIWGlN0+0iddcap+kjtMXW0
+         kpkKOmCToRLgep50CV0Z00y2v20KKOgtbSbuQT7e83h4dhXqF2aWEf3gpP1eDD1JBVw3
+         4ZQmaAyjXvHOZwhKK35doHGqb5L/RRu6bNhNRSMpkn8XxbgjUvVMAZbiiLpXa5ZybhjZ
+         qJWRzuCVAcpRAfieClrkSfgfIMmKwXx1LrmXask6LAGjPkAOMMJ9p95NYqUDpi67f9xS
+         ZQWCoaiIg98jbC2L8r9FAhR7OR8P5Ca8N8SFpx4gTwOVbeOo3LzkEP8JAdVmTnADdALU
+         YVfw==
+X-Gm-Message-State: AMke39l/dWa1/uKUAlWG8V4DJvf62w7guxFUEmXTU6xJNwWlzTPaXhZkXW+cNjk3u+c0AFNVvseroJ13JgWE1pzx1G1+U/bQsPY=
+X-Received: by 10.28.92.193 with SMTP id q184mr16796269wmb.139.1487556455908;
+        Sun, 19 Feb 2017 18:07:35 -0800 (PST)
+Date: Sun, 19 Feb 2017 18:07:35 -0800
+From: "Gmail Team" <mail-noreply@google.com>
+To: "opws test" <6li2ig+15qlzgj8vdw5s@sharklasers.com>
+Message-ID: <CAHudWVAQL2ZuE-4BFpN2uTbpb5y9SbucGA_Qv63A+ZUq1hfVUQ@mail.gmail.com>
+Subject: Your Gmail address, opws.test.2017.02.20@gmail.com, has been created
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_271_1795575201.1487556455905"
+
+------=_Part_271_1795575201.1487556455905
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+*Welcome to Gmail!* You can login to your account at http://mail.google.com/.
+
+
+Here are a couple of tips to help you get started:
+
+   - *Use Gmail's import tools* to move mail and contacts
+   <http://support.google.com/mail/bin/answer.py?hl=en&answer=56283> from
+   your other email accounts to your new Gmail address.
+   - *Download the mobile app* for Android
+   <https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en>
+   or iPhone and iPad
+   <https://itunes.apple.com/us/app/gmail-email-from-google/id422689480?mt=8>
+   to stay connected on the go.
+
+Should you ever encounter problems with your account or forget your
+password we will contact you at this address.
+
+Enjoy!
+
+The Gmail Team
+
+------------------------------
+If you didn't create this Gmail address and don't recognize this email,
+please visit:
+https://accounts.google.com/AccountDisavow?adt=AOX8kirxiClGbOTSvbm718QGQuZFvQVOrpkKLdWyYc6s-kLN6HVw3YXXZutE3ASdaK_NbpFkfeSy0inC-3O_axk
+to unlink this account.
+
+------=_Part_271_1795575201.1487556455905
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<div dir="ltr">
+<p style="margin:1em 0">
+<b>Welcome to Gmail!</b> You can login to your account at <span dir="ltr"><a href="http://mail.google.com/">http://mail.google.com/</a></span>.
+</p>
+<p style="margin:1em 0">
+Here are a couple of tips to help you get started:
+</p>
+<ul>
+<li><b>Use Gmail&#39;s import tools</b> to <a href="http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=56283">move mail and contacts</a> from your other email accounts to your new Gmail address.
+<li><b>Download the mobile app</b> for <a href="https://play.google.com/store/apps/details?id=com.google.android.gm&amp;hl=en">Android</a> or <a href="https://itunes.apple.com/us/app/gmail-email-from-google/id422689480?mt=8">iPhone and iPad</a> to stay connected on the go.
+</li></li></ul>
+<p style="margin:1em 0">
+Should you ever encounter problems with your account or forget your password we will contact you at this address.
+</p>
+<p style="margin:1em 0">
+Enjoy!
+</p>
+<p style="margin:1em 0">
+The Gmail Team
+</p>
+<br>
+<hr>
+If you didn&#39;t create this Gmail address and don&#39;t recognize this email,
+please visit: <a href="https://accounts.google.com/AccountDisavow?adt=AOX8kirxiClGbOTSvbm718QGQuZFvQVOrpkKLdWyYc6s-kLN6HVw3YXXZutE3ASdaK_NbpFkfeSy0inC-3O_axk">https://accounts.google.com/AccountDisavow?adt=AOX8kirxiClGbOTSvbm718QGQuZFvQVOrpkKLdWyYc6s-kLN6HVw3YXXZutE3ASdaK_NbpFkfeSy0inC-3O_axk</a> to unlink this account.
+</div>
+
+------=_Part_271_1795575201.1487556455905--

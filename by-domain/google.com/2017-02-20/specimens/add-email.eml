@@ -1,0 +1,123 @@
+Delivered-To: 6li2ig+15qlzgj8vdw5s@sharklasers.com
+Received: from mail-it0-f72.google.com (mail-it0-f72.google.com  [209.85.214.72])
+	by sharklasers.com with SMTP id 892a63f7e79e9d57036b381fe3972d7f@sharklasers.com;
+	Mon, 20 Feb 2017 02:07:25 +0000
+Received: by mail-it0-f72.google.com with SMTP id e137so113991636itc.0
+        for <6li2ig+15qlzgj8vdw5s@sharklasers.com>; Sun, 19 Feb 2017 18:07:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20161025;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=7KPEs+0/d7MmvIsXtZl2WaNxtxcXsgjqXTCv8L48bY8=;
+        b=GYNHszZOCnCqxMU0EK2S6b8tvqECCpPMi8RNtUPoc9YV5eGIdK6jk2gZCkSQhY6tQU
+         Muv53BBzAckmI+AkAVG2x97GF+3twrqtgN98YC83GtK7VlDjNPGHCElix85AGI9X7oi+
+         RrAMO4/BrvMnw4EM1f9cqWDpgpSOIKyQdi6jSgLxidXiNFoaLDiYDCOuezeYHVFlfQ+5
+         bDxmBBeeOfmwmzCAgL6FOGf6N55qE/bDdj5T4MAg2SSwYEVJDcu01oYhrBZkfjsr+x1g
+         uvkbEsEgPtG3Fk8Oic6uRjwGICbZ7Gov/LiTc4sEGK5MR74H2d8KdVUcrS+TIScPoXp5
+         gjNQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:feedback-id:message-id:subject
+         :from:to;
+        bh=7KPEs+0/d7MmvIsXtZl2WaNxtxcXsgjqXTCv8L48bY8=;
+        b=JEL/Z6souA4a18LKUbx5oRgovYpjJVw/ycWwfIP+hy4EeFcze78taGnNhhovO2tjbz
+         0qxJtWVf276eHobp6mQclPyXF+hUikJf61KoINNiSERNVptTHHBG0k/5N9jvUoPrOrRk
+         fQwaRDqxaaAxLQ8wqr3c97Xkfuaog3Y6s51OswjnlbOWrcMKjMc5qYKs+yo3b3GOF/7s
+         +KpWbbOwMA2sfdEnBMhdjCi0TUDPg5JHVUo5ZV5Gm2Bg0+LRwn6gyFUO6QiB1RfBFs9H
+         UcgaZijSFU3aOQ7Qb4siCVUW75NJt5bpOMECaJpR9/SnqOBMtf6OjZqaQmkNMq3n7Mc2
+         BwuQ==
+X-Gm-Message-State: AMke39nACbkV+xiEg4S9VTdIdfzO3DgQXosUjHBfRJSB7DcrXtIbBZh/rPSlS99li08sfun0Pyfww9mBI+BGDMH4
+MIME-Version: 1.0
+X-Received: by 10.36.23.3 with SMTP id 3mr7113456ith.17.1487556445436; Sun, 19
+ Feb 2017 18:07:25 -0800 (PST)
+Date: Mon, 20 Feb 2017 02:07:21 +0000 (GMT)
+X-Notifications: XEAAAACOEAHJfHAhxH9Jy1QgsG9s
+X-Account-Notification-Type: 9-RECOVERY
+Feedback-ID: 9-RECOVERY:account-notifier
+Message-ID: <CJDQT1IYGoYS6eiKfjKM7w@notifications.google.com>
+Subject: Security alert for your linked Google account
+From: Google <no-reply@accounts.google.com>
+To: 6li2ig+15qlzgj8vdw5s@sharklasers.com
+Content-Type: multipart/alternative; boundary=001a11438d7c837a810548ecb90c
+
+--001a11438d7c837a810548ecb90c
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+VmVyaWZ5IHlvdXIgYWRkZWQgZW1haWwNCg0KDQoNCkhpIG9wd3MsDQpBIHJlcXVlc3Qgd2FzIG1h
+ZGUgdG8gYWRkIDZsaTJpZysxNXFsemdqOHZkdzVzQHNoYXJrbGFzZXJzLmNvbSB0byB5b3VyDQpH
+b29nbGUgQWNjb3VudC4gQ2xpY2sgaGVyZQ0KPGh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9W
+QT9jPUNLakY5ZWp1cTlmNjdBRVFoSnpMN09TMjZ1cGMmaGw9ZW4+IHRvDQp2ZXJpZnkgdGhpcyBy
+ZXF1ZXN0Lg0KDQoqVGhpcyBlbWFpbCBjb21lcyBhcyBhIHN1cnByaXNlPyoNClBsZWFzZSBpZ25v
+cmUgdGhpcyBtYWlsIGFuZCBkb24ndCBjbGljayBvbiB0aGUgbGluayBhYm92ZS4gU29tZW9uZSBt
+aWdodA0KaGF2ZSBqdXN0IG1pc3R5cGVkIHRoZWlyIGVtYWlsIGFkZHJlc3MgYW5kIGFjY2lkZW50
+YWxseSB0cmllZCB0byBhZGQgeW91cnMuDQpJbiB0aGlzIGNhc2UgeW91ciBlbWFpbCBhZGRyZXNz
+IHdpbGwgbm90IGJlIGFkZGVkIHRvIHRoZSBvdGhlciBhY2NvdW50Lg0KDQpCZXN0LA0KVGhlIEdv
+b2dsZSBBY2NvdW50cyB0ZWFtDQoNCg0KDQpUaGlzIGVtYWlsIGNhbid0IHJlY2VpdmUgcmVwbGll
+cy4gRm9yIG1vcmUgaW5mb3JtYXRpb24sIHZpc2l0IHRoZSBHb29nbGUNCkFjY291bnRzIEhlbHAg
+Q2VudGVyIDxodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9hY2NvdW50cz4uDQoNCg0KDQpZb3Ug
+cmVjZWl2ZWQgdGhpcyBtYW5kYXRvcnkgZW1haWwgc2VydmljZSBhbm5vdW5jZW1lbnQgdG8gdXBk
+YXRlIHlvdSBhYm91dA0KaW1wb3J0YW50IGNoYW5nZXMgdG8geW91ciBHb29nbGUgcHJvZHVjdCBv
+ciBhY2NvdW50Lg0KwqkgMjAxNyBHb29nbGUgSW5jLiwgMTYwMCBBbXBoaXRoZWF0cmUgUGFya3dh
+eSwgTW91bnRhaW4gVmlldywgQ0EgOTQwNDMsIFVTQQ0K
+--001a11438d7c837a810548ecb90c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head><meta name=3D"format-detection" content=3D"date=3Dn=
+o"><meta name=3D"format-detection" content=3D"email=3Dno"></head><body styl=
+e=3D"margin: 0; padding: 0;" bgcolor=3D"#FFFFFF"><table width=3D"100%" heig=
+ht=3D"100%" style=3D"min-width: 348px;" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"><tr height=3D"32px"></tr><tr align=3D"center"><td width=3D"32=
+px"></td><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"max-width: 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=
+=3D"32" src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color=
+_188x64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><t=
+d align=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; =
+width: 32px; height: 32px;" src=3D"https://www.gstatic.com/accountalerts/em=
+ail/wrench.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td>=
+<table bgcolor=3D"#E6E6E6" width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px so=
+lid #E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-righ=
+t-radius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td wid=
+th=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,s=
+ans-serif; font-size: 24px; color: #000000; line-height: 1.25;">Verify your=
+ added email</td><td width=3D"32px"></td></tr><tr><td height=3D"18px" colsp=
+an=3D"3"></td></tr></table></td></tr><tr><td><table bgcolor=3D"#FAFAFA" wid=
+th=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"min-w=
+idth: 332px; max-width: 600px; border: 1px solid #F0F0F0; border-bottom: 1p=
+x solid #C0C0C0; border-top: 0; border-bottom-left-radius: 3px; border-bott=
+om-right-radius: 3px;"><tr height=3D"16px"><td width=3D"32px" rowspan=3D"3"=
+></td><td></td><td width=3D"32px" rowspan=3D"3"></td></tr><tr><td><table st=
+yle=3D"min-width: 300px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=
+<tr><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; fo=
+nt-size: 13px; color: #202020; line-height: 1.5;">Hi opws,</td></tr><tr><td=
+ style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size=
+: 13px; color: #202020; line-height: 1.5;">A request was made to add 6li2ig=
++15qlzgj8vdw5s@sharklasers.com to your Google Account. Click <a href=3D"htt=
+ps://accounts.google.com/VA?c=3DCKjF9ejuq9f67AEQhJzL7OS26upc&amp;hl=3Den" s=
+tyle=3D"text-decoration: none; color: #4285F4;" target=3D"_blank">here</a> =
+to verify this request.<br><br><b>This email comes as a surprise?</b><br>Pl=
+ease ignore this mail and don't click on the link above. Someone might have=
+ just mistyped their email address and accidentally tried to add yours. In =
+this case your email address will not be added to the other account.</td></=
+tr><tr height=3D"32px"></tr><tr><td style=3D"font-family: Roboto-Regular,He=
+lvetica,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5=
+;">Best,<br>The Google Accounts team</td></tr><tr height=3D"16px"></tr><tr>=
+<td><table style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif;=
+ font-size: 12px; color: #B9B9B9; line-height: 1.5;"><tr><td>This email can=
+'t receive replies. For more information, visit the <a href=3D"https://supp=
+ort.google.com/accounts" data-meta-key=3D"help" style=3D"text-decoration: n=
+one; color: #4285F4;" target=3D"_blank">Google Accounts Help Center</a>.</t=
+d></tr></table></td></tr></table></td></tr><tr height=3D"32px"></tr></table=
+></td></tr><tr height=3D"16"></tr><tr><td style=3D"max-width: 600px; font-f=
+amily: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 10px; color: #=
+BCBCBC; line-height: 1.5;"><tr><td><table style=3D"font-family: Roboto-Regu=
+lar,Helvetica,Arial,sans-serif; font-size: 10px; color: #666666; line-heigh=
+t: 18px; padding-bottom: 10px"><tr><td>You received this mandatory email se=
+rvice announcement to update you about important changes to your Google pro=
+duct or account.</td></tr><tr><td><div style=3D"direction: ltr; text-align:=
+ left">&copy; 2017 Google Inc., 1600 Amphitheatre Parkway, Mountain View, C=
+A 94043, USA</div></td></tr></table></td></tr></td></tr></table></td><td wi=
+dth=3D"32px"></td></tr><tr height=3D"32px"></tr></table></body></html>
+--001a11438d7c837a810548ecb90c--
