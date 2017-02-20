@@ -1,4 +1,4 @@
-# opws-accounts
+# opws-testaccounts
 
 Loosely-structured records of how OPWS profiles got written.
 
