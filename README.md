@@ -15,3 +15,9 @@ Open a guest / incognito / private browser window and open:
 ## This is not BugMeNot
 
 Most of the test accounts created for review here are kept around after the review is done (ie. I don't delete them), in case they'll be useful for just revisiting an aspect of the site at a later point, or legacy account handling (like finding out if inactive and/or pre-migration accounts have been evicted). Please don't use them for your own purposes. If you need a throwaway account, you can make a new one using GuerillaMail yourself, or pull one from http://bugmenot.com/ and use that.
+
+## Hypothetically Asked Questions
+
+### Why are specimens links to Gist instead of files in the tree?
+
+Because the average .mhtml is like a megabyte and it would massively bloat the repo. Yes, the email specimens are a lot lighter, but at this point we've already got the Gist tab open, why not use it for both?
