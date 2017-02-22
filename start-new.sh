@@ -42,4 +42,16 @@ specimens: # https://gist.github.com/
     expired password reset link:
 ---
 
+## Issue pings
+
+### Registration spam checkboxes (opws/domainprofiles#175)
+
+### Invalid account password reset (opws/domainprofiles#28)
+
+### Stub information disclosure (opws/domainprofiles#125)
+
+### Other stub details (opws/domainprofiles#130)
+
+### Password truncation / trimming (opws/domainprofiles#233)
+
 EOF
