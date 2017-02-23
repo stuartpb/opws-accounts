@@ -26,7 +26,7 @@ email: https://mailsac.com/inbox/${domain}_$today$suffix@tmail.opws.org
 passwords: # in order of use
 - a
 
-specimens: # https://gist.github.com/
+specimens:
   emails:
     verification:
     password reset token:
