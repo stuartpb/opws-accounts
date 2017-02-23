@@ -14,15 +14,14 @@ today="$(date -I)"
 fileprefix="$accountroot/$today"
 extension=".md"
 try=1
-trext=""
-while [[ -f "$fileprefix$extension" ]]; do
-  trext="_$((++try))"
-  extension="$trext.md"
+suffix=""
+while [[ -f "$fileprefix$suffix.md" ]]; do
+  suffix="_$((++try))"
 done
 
-cat << EOF > "$fileprefix$extension"
+cat << EOF > "$fileprefix$suffix.md"
 ---
-email: https://mailsac.com/inbox/${domain}_$today$trext@tmail.opws.org
+email: https://mailsac.com/inbox/${domain}_$today$suffix@tmail.opws.org
 # insert username etc. here
 passwords: # in order of use
 - a
