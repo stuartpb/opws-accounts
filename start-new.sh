@@ -43,7 +43,12 @@ specimens:
 
 ## Issue pings
 
-### Registration spam checkboxes (opws/domainprofiles#175)
+### Not-yet-profiled registration fields
+
+- Spam checkboxes (opws/domainprofiles#175)
+- Company name (opws/domainprofiles#275)
+
+### Steps to reach forms (opws/domainprofiles#222)
 
 ### Invalid account password reset (opws/domainprofiles#28)
 
